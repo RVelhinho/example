@@ -70,6 +70,6 @@
     "ex"
   ],
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   }
 }

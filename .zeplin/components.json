@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-react-plugin"
+        }
+    ],
+    "projects": [],
+    "styleguides": [
+        "60207d70f542876185ec7f12"
+    ],
+    "components": [
+        {
+            "path": "src/random-component.jsx",
+            "zeplinNames": [
+                "Random Button"
+            ]
+        }
+    ]
+}
