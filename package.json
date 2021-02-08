@@ -1,12 +1,12 @@
 {
-  "name": "@testorgrvelhinho/examplervelhinho",
+  "name": "@RVelhinho/example",
   "version": "1.0.3",
   "description": "Made with create-react-library",
   "author": "RVelhinho",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/testorgrvelhinho/examplervelhinho.git"
+    "url": "git+https://github.com/RVelhinho/example.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -60,11 +60,11 @@
     "node-sass": "^5.0.0"
   },
   "bugs": {
-    "url": "https://github.com/testorgrvelhinho/examplervelhinho/issues"
+    "url": "https://github.com/RVelhinho/example/issues"
   },
-  "homepage": "https://github.com/testorgrvelhinho/examplervelhinho#readme",
+  "homepage": "https://github.com/RVelhinho/example#readme",
   "directories": {
-    "examplervelhinho": "examplervelhinho"
+    "example": "example"
   },
   "keywords": [
     "ex"
